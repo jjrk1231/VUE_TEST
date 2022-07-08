@@ -15,7 +15,6 @@
 
     <!-- <p>{{name}} {{age}} {{likes}}</p>
     <p>{{내이름}}</p>
-
     <h4>안녕 {{ $store.state.name }}</h4>
     <h4>나는 {{ $store.state.age }}</h4>
     <button @click="$store.commit('이름변경')">버튼</button>
