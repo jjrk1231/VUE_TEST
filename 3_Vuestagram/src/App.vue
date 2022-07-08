@@ -1,3 +1,4 @@
+
 <template>
 <div>
   <div class="header">
@@ -19,6 +20,7 @@
     <h4>나는 {{ $store.state.age }}</h4>
     <button @click="$store.commit('이름변경')">버튼</button>
     <button @click="나이변경(10)">나이변경버튼</button> -->
+    
 
     <p>{{ $store.state.more }}</p>  
     <button @click="$store.dispatch('getData')">더보기버튼</button>
