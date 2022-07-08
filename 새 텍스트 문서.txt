@@ -1,0 +1,17 @@
+공통
+
+npm install
+
+npm install bootstrap
+
+npm install vue-router@4//vue 3버전만 vue 2버전은 @3
+
+
+vuelog 
+yarn install
+
+yarn build
+
+yarn lint
+
+yarn serve
